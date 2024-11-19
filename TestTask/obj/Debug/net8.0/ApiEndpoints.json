@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "TestTask.Controllers.AuthorsController",
+    "Method": "Get",
+    "RelativePath": "api/v1/authors/selected-author",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestTask.Controllers.AuthorsController",
+    "Method": "GetAuthors",
+    "RelativePath": "api/v1/authors/selected-authors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestTask.Controllers.BooksController",
+    "Method": "Get",
+    "RelativePath": "api/v1/books/selected-book",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestTask.Controllers.BooksController",
+    "Method": "GetBooks",
+    "RelativePath": "api/v1/books/selected-books",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
